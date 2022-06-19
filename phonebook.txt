@@ -1,0 +1,4 @@
+{'name': 'Arafat', 'Address': 'Dhaka', 'Email': 'arafatedu11@gmail.com', 'Phone_no': ['01098', '091234']}
+{'name': 'Mehrab', 'Address': 'Chittagong', 'Email': 'mehrab@gmail.com', 'Phone_no': ['01034', '035234']}
+{'name': 'Brifat', 'Address': 'Manikgonj', 'Email': 'rifat@gmail.com', 'Phone_no': ['01748', '457864']}
+{'name': 'Tobarak', 'Address': 'Noakhali', 'Email': 'tobarak@gmail.com', 'Phone_no': ['01098', '091234']}
