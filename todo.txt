@@ -1,0 +1,3 @@
+{'date': '6-Mar-22', 'description': 'Attend a Seminar', 'place': 'AIUB'}
+{'date': '7-Mar-22', 'description': 'Attend a metting', 'place': 'Dhaka'}
+{'date': '8-Mar-22', 'description': 'Attend a Birthday', 'place': 'Cumilla'}
